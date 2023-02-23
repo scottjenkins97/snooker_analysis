@@ -2,7 +2,7 @@
 
 In 2020, my friend Michael and I did some analysis of snooker players and their rankings through their careers. 
 
-How did the world ranking relate to the % of matches won?
+In the notebook: 'Rise and Fall' we look at how the world rankings relate to the % of matches won. Spoiler, there is a lag, leading to circular traces over time.
 
 Blog: https://scottjenkinstoday.com/snooker-ranking-analysis/
 
